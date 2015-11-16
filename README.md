@@ -8,3 +8,6 @@
     bannerView.imageItemsArray = imgArr;
     bannerView.delegate = self;
     [self.view addSubview:bannerView];
+
+ ![image](https://github.com/zuojx1013/IndexBannerView/blob/master/IndexBannerView.gif)
+ 
