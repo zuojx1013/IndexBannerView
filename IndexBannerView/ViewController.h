@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "IndexBannerView.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<IndexBannerDelegate>
 
 
 @end
