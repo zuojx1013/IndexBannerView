@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4F36056-951E-4E73-A7A8-A621B2B69322</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IndexBannerView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7095A2826D99D5372DF6D2F8C672B80DE3397CD0</key>
+		<string>https://github.com/zuojx1013/IndexBannerView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IndexBannerView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7095A2826D99D5372DF6D2F8C672B80DE3397CD0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zuojx1013/IndexBannerView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7095A2826D99D5372DF6D2F8C672B80DE3397CD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7095A2826D99D5372DF6D2F8C672B80DE3397CD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IndexBannerView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
